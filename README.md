@@ -37,4 +37,6 @@
      "ghcr.5ibb.com": "https://ghcr.io",
    };
    ```
+## References
 
+[搭建引导说明](https://www.cnblogs.com/KubeExplorer/p/18264358)
