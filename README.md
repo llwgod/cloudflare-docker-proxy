@@ -40,3 +40,5 @@
 ## References
 
 [搭建引导说明](https://www.cnblogs.com/KubeExplorer/p/18264358)
+
+[其他的搭建方法github](https://github.com/cmliu/CF-Workers-docker.io)
