@@ -4,6 +4,7 @@ addEventListener("fetch", (event) => {
 });
 
 const dockerHub = "https://registry-1.docker.io";
+const CUSTM_DOMAIN = "5ibb.com";
 
 const routes = {
   // production
