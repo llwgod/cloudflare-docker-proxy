@@ -1,6 +1,12 @@
 name = "cloudflare-docker-proxy"
 compatibility_date = "2023-12-01"
 
+[build]
+command = "yarn install --mode=update-lockfile && yarn build"
+
+[node_compat]
+enable_yarn_workspaces = true
+
 [dev]
 ip = "0.0.0.0"
 port = 8787
